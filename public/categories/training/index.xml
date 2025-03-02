@@ -1,26 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Training on Kaniyam Foundation</title>
+    <title>Training | Kaniyam Foundation</title>
     <link>https://kaniyam.ca/categories/training/</link>
-    <description>Recent content in Training on Kaniyam Foundation</description>
-    <generator>Hugo</generator>
+    <description>Recent content on my site</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    
     <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kaniyam.ca/categories/training/index.xml" rel="self" type="application/rss+xml" />
+    
+      <atom:link href="https://kaniyam.ca/categories/training/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>One day workshop on Python programming</title>
       <link>https://kaniyam.ca/posts/2025/02/03/one-day-workshop-on-python-programming/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://kaniyam.ca/posts/2025/02/03/one-day-workshop-on-python-programming/</guid>
-      <description>Hello everyone!&#xA;We are excited to invite you to a FREE One-Day Python Workshop designed for beginners and enthusiasts who want to dive into the world of programming!</description>
+      <description>&lt;p&gt;Hello everyone!&lt;/p&gt;
+&lt;p&gt;We are excited to invite you to a FREE One-Day Python Workshop designed &lt;br&gt;
+for beginners and enthusiasts who want to dive into the world of &lt;br&gt;
+programming! Whether you&amp;rsquo;re curious about coding, looking to upskill, &lt;br&gt;
+or just want to explore something new, this workshop is for you!&lt;/p&gt;
+&lt;p&gt;📅 Date: March 2 2025 &lt;br&gt;
+🕒 Time: 10.00 - 6.00 EST &lt;br&gt;
+📍 Venue: 1011, 155 hillcrest ave&lt;/p&gt;
+&lt;p&gt;What You’ll Learn:&lt;/p&gt;
+&lt;p&gt;✅ Basics of Python Programming &lt;br&gt;
+✅ Writing Your First Python Code &lt;br&gt;
+✅ Practical Examples and Hands-On Exercises &lt;br&gt;
+✅ Tips to Continue Your Coding Journey&lt;/p&gt;
+&lt;p&gt;Who Can Attend:&lt;/p&gt;
+&lt;p&gt;👩‍💻 Adults with no prior coding experience &lt;br&gt;
+👨‍💻 Anyone interested in learning Python&lt;/p&gt;
+&lt;p&gt;What to Bring:&lt;/p&gt;
+&lt;p&gt;💻 Laptop (if you have one) &lt;br&gt;
+📒 Notebook &amp;amp; Pen &lt;br&gt;
+💡 Enthusiasm to learn!&lt;/p&gt;
+&lt;p&gt;Spaces are limited, so please confirm your attendance by &lt;br&gt;
+joining the whatsapp group.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://chat.whatsapp.com/EcLsBXvIVRVAIyFa0mzM11&#34;&gt;https://chat.whatsapp.com/EcLsBXvIVRVAIyFa0mzM11&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Let’s code together and unlock new possibilities! 🚀&lt;/p&gt;
+&lt;p&gt;Looking forward to seeing you there!&lt;/p&gt;
+&lt;p&gt;Shrini &amp;amp; Nithya&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Python Training for Kids at Winter Break</title>
       <link>https://kaniyam.ca/posts/2024/12/20/python-training-for-kids-at-winter-break/</link>
       <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://kaniyam.ca/posts/2024/12/20/python-training-for-kids-at-winter-break/</guid>
-      <description>Hello everyone!&#xA;I’m excited to invite you to a FREE One-Day Python Workshop designed for kids who want to dive into the world of programming, in this winter break of 2024.</description>
+      <description>&lt;p&gt;Hello everyone!&lt;/p&gt;
+&lt;p&gt;I’m excited to invite you to a FREE One-Day Python Workshop designed for kids who want to dive into the world of programming, in this winter break of 2024.&lt;/p&gt;
+&lt;p&gt;📅 Start Date: 23 Dec 2024 &lt;br&gt;
+🕒 Time: 3.00 - 4.30 pm EST &lt;br&gt;
+📍 Venue: 1011, 155 hillcrest ave, Mississauga, ON Canada&lt;/p&gt;
+&lt;p&gt;What kids’ll Learn:&lt;/p&gt;
+&lt;p&gt;✅ Basics of Python Programming &lt;br&gt;
+✅ Writing Your First Python Code &lt;br&gt;
+✅ Practical Examples and Hands-On Exercises&lt;/p&gt;
+&lt;p&gt;Who Can Attend:&lt;/p&gt;
+&lt;p&gt;👩‍💻 Kids of Grade 5 and above&lt;/p&gt;
+&lt;p&gt;What to Bring:&lt;/p&gt;
+&lt;p&gt;💻 Laptop (if you have one) &lt;br&gt;
+💡 Enthusiasm to learn!&lt;/p&gt;
+</description>
     </item>
+    
   </channel>
 </rss>

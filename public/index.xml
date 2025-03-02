@@ -1,125 +1,268 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Kaniyam Foundation</title>
+    <title>Home | Kaniyam Foundation</title>
     <link>https://kaniyam.ca/</link>
-    <description>Recent content in Home on Kaniyam Foundation</description>
-    <generator>Hugo</generator>
+    <description>Recent content on my site</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    
     <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kaniyam.ca/index.xml" rel="self" type="application/rss+xml" />
+    
+      <atom:link href="https://kaniyam.ca/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>One day workshop on Python programming</title>
       <link>https://kaniyam.ca/posts/2025/02/03/one-day-workshop-on-python-programming/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://kaniyam.ca/posts/2025/02/03/one-day-workshop-on-python-programming/</guid>
-      <description>Hello everyone!&#xA;We are excited to invite you to a FREE One-Day Python Workshop designed for beginners and enthusiasts who want to dive into the world of programming!</description>
+      <description>&lt;p&gt;Hello everyone!&lt;/p&gt;
+&lt;p&gt;We are excited to invite you to a FREE One-Day Python Workshop designed &lt;br&gt;
+for beginners and enthusiasts who want to dive into the world of &lt;br&gt;
+programming! Whether you&amp;rsquo;re curious about coding, looking to upskill, &lt;br&gt;
+or just want to explore something new, this workshop is for you!&lt;/p&gt;
+&lt;p&gt;📅 Date: March 2 2025 &lt;br&gt;
+🕒 Time: 10.00 - 6.00 EST &lt;br&gt;
+📍 Venue: 1011, 155 hillcrest ave&lt;/p&gt;
+&lt;p&gt;What You’ll Learn:&lt;/p&gt;
+&lt;p&gt;✅ Basics of Python Programming &lt;br&gt;
+✅ Writing Your First Python Code &lt;br&gt;
+✅ Practical Examples and Hands-On Exercises &lt;br&gt;
+✅ Tips to Continue Your Coding Journey&lt;/p&gt;
+&lt;p&gt;Who Can Attend:&lt;/p&gt;
+&lt;p&gt;👩‍💻 Adults with no prior coding experience &lt;br&gt;
+👨‍💻 Anyone interested in learning Python&lt;/p&gt;
+&lt;p&gt;What to Bring:&lt;/p&gt;
+&lt;p&gt;💻 Laptop (if you have one) &lt;br&gt;
+📒 Notebook &amp;amp; Pen &lt;br&gt;
+💡 Enthusiasm to learn!&lt;/p&gt;
+&lt;p&gt;Spaces are limited, so please confirm your attendance by &lt;br&gt;
+joining the whatsapp group.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://chat.whatsapp.com/EcLsBXvIVRVAIyFa0mzM11&#34;&gt;https://chat.whatsapp.com/EcLsBXvIVRVAIyFa0mzM11&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Let’s code together and unlock new possibilities! 🚀&lt;/p&gt;
+&lt;p&gt;Looking forward to seeing you there!&lt;/p&gt;
+&lt;p&gt;Shrini &amp;amp; Nithya&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Python Training for Kids at Winter Break</title>
       <link>https://kaniyam.ca/posts/2024/12/20/python-training-for-kids-at-winter-break/</link>
       <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://kaniyam.ca/posts/2024/12/20/python-training-for-kids-at-winter-break/</guid>
-      <description>Hello everyone!&#xA;I’m excited to invite you to a FREE One-Day Python Workshop designed for kids who want to dive into the world of programming, in this winter break of 2024.</description>
+      <description>&lt;p&gt;Hello everyone!&lt;/p&gt;
+&lt;p&gt;I’m excited to invite you to a FREE One-Day Python Workshop designed for kids who want to dive into the world of programming, in this winter break of 2024.&lt;/p&gt;
+&lt;p&gt;📅 Start Date: 23 Dec 2024 &lt;br&gt;
+🕒 Time: 3.00 - 4.30 pm EST &lt;br&gt;
+📍 Venue: 1011, 155 hillcrest ave, Mississauga, ON Canada&lt;/p&gt;
+&lt;p&gt;What kids’ll Learn:&lt;/p&gt;
+&lt;p&gt;✅ Basics of Python Programming &lt;br&gt;
+✅ Writing Your First Python Code &lt;br&gt;
+✅ Practical Examples and Hands-On Exercises&lt;/p&gt;
+&lt;p&gt;Who Can Attend:&lt;/p&gt;
+&lt;p&gt;👩‍💻 Kids of Grade 5 and above&lt;/p&gt;
+&lt;p&gt;What to Bring:&lt;/p&gt;
+&lt;p&gt;💻 Laptop (if you have one) &lt;br&gt;
+💡 Enthusiasm to learn!&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>cactus demo</title>
       <link>https://kaniyam.ca/old/2024-11-29-one/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://kaniyam.ca/old/2024-11-29-one/</guid>
-      <description>Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</description>
+      <description>&lt;p&gt;Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem, nam voluptate in beatae.&lt;/p&gt;
+&lt;h3 id=&#34;a-brand-for-a-company-is-like-a-reputation-for-a-person-you-earn-reputation-by-trying-to-do-hard-things-well&#34;&gt;A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.&lt;/h3&gt;
+&lt;p&gt;The same is true as we experience the emotional sensation of stress from our first instances of social rejection ridicule. We quickly learn to fear and thus automatically.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos animi laborum iusto expedita sapiente.&lt;/p&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://tamil.domesticatedonion.net/js/cactus.js&#34;&gt;&lt;/script&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://tamil.domesticatedonion.net/js/style.css&#34; type=&#34;text/css&#34;&gt;
+&lt;div id=&#34;comment-section&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+initComments({
+  node: document.getElementById(&#34;comment-section&#34;),
+  defaultHomeserverUrl: &#34;https://matrix.cactus.chat:8448&#34;,
+  serverName: &#34;cactus.chat&#34;,
+  siteName: &#34;kaniyam.cloudns.nz&#34;,
+  commentSectionId: &#34;cactus-comments&#34;
+})
+&lt;/script&gt;
+
+</description>
     </item>
+    
     <item>
       <title>Helping small businesses grow</title>
       <link>https://kaniyam.ca/old/2024-11-20-one/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://kaniyam.ca/old/2024-11-20-one/</guid>
-      <description>Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</description>
+      <description>&lt;p&gt;Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem, nam voluptate in beatae.&lt;/p&gt;
+&lt;h3 id=&#34;a-brand-for-a-company-is-like-a-reputation-for-a-person-you-earn-reputation-by-trying-to-do-hard-things-well&#34;&gt;A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.&lt;/h3&gt;
+&lt;p&gt;The same is true as we experience the emotional sensation of stress from our first instances of social rejection ridicule. We quickly learn to fear and thus automatically.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos animi laborum iusto expedita sapiente.&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Improve design with typography</title>
       <link>https://kaniyam.ca/old/2022-03-09-improve-design-with-typography/</link>
       <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://kaniyam.ca/old/2022-03-09-improve-design-with-typography/</guid>
-      <description>Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</description>
+      <description>&lt;p&gt;Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem, nam voluptate in beatae.&lt;/p&gt;
+&lt;h3 id=&#34;a-brand-for-a-company-is-like-a-reputation-for-a-person-you-earn-reputation-by-trying-to-do-hard-things-well&#34;&gt;A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.&lt;/h3&gt;
+&lt;p&gt;The same is true as we experience the emotional sensation of stress from our first instances of social rejection ridicule. We quickly learn to fear and thus automatically.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos animi laborum iusto expedita sapiente.&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Connecting to the consumer</title>
       <link>https://kaniyam.ca/old/2022-03-08-interactivity-connect-consumer/</link>
       <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://kaniyam.ca/old/2022-03-08-interactivity-connect-consumer/</guid>
-      <description>Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</description>
+      <description>&lt;p&gt;Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem, nam voluptate in beatae.&lt;/p&gt;
+&lt;h3 id=&#34;a-brand-for-a-company-is-like-a-reputation-for-a-person-you-earn-reputation-by-trying-to-do-hard-things-well&#34;&gt;A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.&lt;/h3&gt;
+&lt;p&gt;The same is true as we experience the emotional sensation of stress from our first instances of social rejection ridicule. We quickly learn to fear and thus automatically.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos animi laborum iusto expedita sapiente.&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Customer marketing strategy</title>
       <link>https://kaniyam.ca/old/2022-03-07-customer-marketing-strategy/</link>
       <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://kaniyam.ca/old/2022-03-07-customer-marketing-strategy/</guid>
-      <description>Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</description>
+      <description>&lt;p&gt;Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem, nam voluptate in beatae.&lt;/p&gt;
+&lt;h3 id=&#34;a-brand-for-a-company-is-like-a-reputation-for-a-person-you-earn-reputation-by-trying-to-do-hard-things-well&#34;&gt;A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.&lt;/h3&gt;
+&lt;p&gt;The same is true as we experience the emotional sensation of stress from our first instances of social rejection ridicule. We quickly learn to fear and thus automatically.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos animi laborum iusto expedita sapiente.&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Helping small businesses grow</title>
       <link>https://kaniyam.ca/old/2022-03-06-helping-small-businesses-grow/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://kaniyam.ca/old/2022-03-06-helping-small-businesses-grow/</guid>
-      <description>Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</description>
+      <description>&lt;p&gt;Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem, nam voluptate in beatae.&lt;/p&gt;
+&lt;h3 id=&#34;a-brand-for-a-company-is-like-a-reputation-for-a-person-you-earn-reputation-by-trying-to-do-hard-things-well&#34;&gt;A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.&lt;/h3&gt;
+&lt;p&gt;The same is true as we experience the emotional sensation of stress from our first instances of social rejection ridicule. We quickly learn to fear and thus automatically.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos animi laborum iusto expedita sapiente.&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Helping small businesses grow</title>
       <link>https://kaniyam.ca/old/2024-11-21-one/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://kaniyam.ca/old/2024-11-21-one/</guid>
-      <description>Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</description>
+      <description>&lt;p&gt;Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem, nam voluptate in beatae.&lt;/p&gt;
+&lt;h3 id=&#34;a-brand-for-a-company-is-like-a-reputation-for-a-person-you-earn-reputation-by-trying-to-do-hard-things-well&#34;&gt;A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.&lt;/h3&gt;
+&lt;p&gt;The same is true as we experience the emotional sensation of stress from our first instances of social rejection ridicule. We quickly learn to fear and thus automatically.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos animi laborum iusto expedita sapiente.&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Helping small businesses grow</title>
       <link>https://kaniyam.ca/old/2024-11-22-one/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://kaniyam.ca/old/2024-11-22-one/</guid>
-      <description>Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</description>
+      <description>&lt;p&gt;Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem, nam voluptate in beatae.&lt;/p&gt;
+&lt;h3 id=&#34;a-brand-for-a-company-is-like-a-reputation-for-a-person-you-earn-reputation-by-trying-to-do-hard-things-well&#34;&gt;A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.&lt;/h3&gt;
+&lt;p&gt;The same is true as we experience the emotional sensation of stress from our first instances of social rejection ridicule. We quickly learn to fear and thus automatically.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos animi laborum iusto expedita sapiente.&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Helping small businesses grow</title>
       <link>https://kaniyam.ca/old/2024-11-23-one/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://kaniyam.ca/old/2024-11-23-one/</guid>
-      <description>Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</description>
+      <description>&lt;p&gt;Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem, nam voluptate in beatae.&lt;/p&gt;
+&lt;h3 id=&#34;a-brand-for-a-company-is-like-a-reputation-for-a-person-you-earn-reputation-by-trying-to-do-hard-things-well&#34;&gt;A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.&lt;/h3&gt;
+&lt;p&gt;The same is true as we experience the emotional sensation of stress from our first instances of social rejection ridicule. We quickly learn to fear and thus automatically.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos animi laborum iusto expedita sapiente.&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Helping small businesses grow</title>
       <link>https://kaniyam.ca/old/2024-11-24-one/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://kaniyam.ca/old/2024-11-24-one/</guid>
-      <description>Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</description>
+      <description>&lt;p&gt;Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem, nam voluptate in beatae.&lt;/p&gt;
+&lt;h3 id=&#34;a-brand-for-a-company-is-like-a-reputation-for-a-person-you-earn-reputation-by-trying-to-do-hard-things-well&#34;&gt;A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.&lt;/h3&gt;
+&lt;p&gt;The same is true as we experience the emotional sensation of stress from our first instances of social rejection ridicule. We quickly learn to fear and thus automatically.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos animi laborum iusto expedita sapiente.&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Helping small businesses grow</title>
       <link>https://kaniyam.ca/old/2024-11-25-one/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://kaniyam.ca/old/2024-11-25-one/</guid>
-      <description>Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</description>
+      <description>&lt;p&gt;Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem, nam voluptate in beatae.&lt;/p&gt;
+&lt;h3 id=&#34;a-brand-for-a-company-is-like-a-reputation-for-a-person-you-earn-reputation-by-trying-to-do-hard-things-well&#34;&gt;A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.&lt;/h3&gt;
+&lt;p&gt;The same is true as we experience the emotional sensation of stress from our first instances of social rejection ridicule. We quickly learn to fear and thus automatically.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos animi laborum iusto expedita sapiente.&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Helping small businesses grow</title>
       <link>https://kaniyam.ca/old/2024-11-26-one/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://kaniyam.ca/old/2024-11-26-one/</guid>
-      <description>Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</description>
+      <description>&lt;p&gt;Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem, nam voluptate in beatae.&lt;/p&gt;
+&lt;h3 id=&#34;a-brand-for-a-company-is-like-a-reputation-for-a-person-you-earn-reputation-by-trying-to-do-hard-things-well&#34;&gt;A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.&lt;/h3&gt;
+&lt;p&gt;The same is true as we experience the emotional sensation of stress from our first instances of social rejection ridicule. We quickly learn to fear and thus automatically.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos animi laborum iusto expedita sapiente.&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Helping small businesses grow</title>
       <link>https://kaniyam.ca/old/2024-11-27-one/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://kaniyam.ca/old/2024-11-27-one/</guid>
-      <description>Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</description>
+      <description>&lt;p&gt;Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem, nam voluptate in beatae.&lt;/p&gt;
+&lt;h3 id=&#34;a-brand-for-a-company-is-like-a-reputation-for-a-person-you-earn-reputation-by-trying-to-do-hard-things-well&#34;&gt;A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.&lt;/h3&gt;
+&lt;p&gt;The same is true as we experience the emotional sensation of stress from our first instances of social rejection ridicule. We quickly learn to fear and thus automatically.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos animi laborum iusto expedita sapiente.&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Helping small businesses grow</title>
       <link>https://kaniyam.ca/old/2024-11-28-one/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://kaniyam.ca/old/2024-11-28-one/</guid>
-      <description>Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</description>
+      <description>&lt;p&gt;Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem, nam voluptate in beatae.&lt;/p&gt;
+&lt;h3 id=&#34;a-brand-for-a-company-is-like-a-reputation-for-a-person-you-earn-reputation-by-trying-to-do-hard-things-well&#34;&gt;A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.&lt;/h3&gt;
+&lt;p&gt;The same is true as we experience the emotional sensation of stress from our first instances of social rejection ridicule. We quickly learn to fear and thus automatically.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos animi laborum iusto expedita sapiente.&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>About</title>
       <link>https://kaniyam.ca/about/</link>
@@ -127,6 +270,7 @@
       <guid>https://kaniyam.ca/about/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Contact Us</title>
       <link>https://kaniyam.ca/contact/</link>
@@ -134,6 +278,7 @@
       <guid>https://kaniyam.ca/contact/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Latest works</title>
       <link>https://kaniyam.ca/portfolio/</link>
@@ -141,6 +286,7 @@
       <guid>https://kaniyam.ca/portfolio/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Our pricing</title>
       <link>https://kaniyam.ca/pricing/</link>
@@ -148,6 +294,7 @@
       <guid>https://kaniyam.ca/pricing/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Our Services</title>
       <link>https://kaniyam.ca/services/</link>
@@ -155,5 +302,6 @@
       <guid>https://kaniyam.ca/services/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>
