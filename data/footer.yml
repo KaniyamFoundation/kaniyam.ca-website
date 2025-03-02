@@ -1,5 +1,5 @@
 column:
-  - heading: Company
+  - heading: Organization
     items:
       - name: "Terms & Conditions"
         url: "/about/"
@@ -7,12 +7,12 @@ column:
       - name: "Privacy Policy"
         url: "/about/"
         open_in_new_tab: false
-      - name: "Support"
-        url: "/contact/"
-        open_in_new_tab: false
-      - name: "FAQ"
-        url: "/contact/"
-        open_in_new_tab: false
+#      - name: "Support"
+#        url: "/contact/"
+#        open_in_new_tab: false
+#      - name: "FAQ"
+#        url: "/contact/"
+#        open_in_new_tab: false
   - heading: Quick Link
     items:
       - name: "About"

@@ -1,0 +1,56 @@
+---
+date: 2025-02-03
+title: One day workshop on Python programming
+description:
+categories:
+  - Training
+image_path: /images/blog/python-workshop.jpg
+author: Shrini
+seo:
+  page_description:
+  canonical_url:
+  featured_image:
+  author_twitter_handle:
+  open_graph_type:
+  no_index: false
+---
+Hello everyone!
+
+We are excited to invite you to a FREE One-Day Python Workshop designed \
+for beginners and enthusiasts who want to dive into the world of \
+programming! Whether you're curious about coding, looking to upskill, \
+or just want to explore something new, this workshop is for you!
+
+📅 Date: March 2 2025 \
+🕒 Time: 10.00 - 6.00 EST \
+📍 Venue: 1011, 155 hillcrest ave
+
+What You’ll Learn:
+
+✅ Basics of Python Programming \
+✅ Writing Your First Python Code \
+✅ Practical Examples and Hands-On Exercises \
+✅ Tips to Continue Your Coding Journey
+
+Who Can Attend:
+
+👩‍💻 Adults with no prior coding experience \
+👨‍💻 Anyone interested in learning Python
+
+What to Bring:
+
+💻 Laptop (if you have one) \
+📒 Notebook & Pen \
+💡 Enthusiasm to learn!
+
+Spaces are limited, so please confirm your attendance by \
+joining the whatsapp group.
+
+
+https://chat.whatsapp.com/EcLsBXvIVRVAIyFa0mzM11
+
+Let’s code together and unlock new possibilities! 🚀
+
+Looking forward to seeing you there!
+
+Shrini & Nithya

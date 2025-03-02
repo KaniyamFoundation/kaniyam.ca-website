@@ -1,7 +1,7 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://kaniyam.ca/'
 languageCode = 'en-us'
-title = "Megakit"
-Paginate = 20
+title = "Kaniyam Foundation"
+Paginate = 4
 PaginatePath = "/"
 summaryLength = 10
 

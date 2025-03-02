@@ -10,17 +10,17 @@ hero:
   background_image: "/images/bg/home-2.jpg"
 content_blocks:
   - _bookshop_name: "contact_form"
-    preheading: "We are Professionals"
-    heading: "Don’t Hesitate to contact with us for any kind of information"
+    preheading: "Kaniyam Foundation"
+    heading: "Contact Us"
     form_heading: "Contact Form"
-    address: "North Main Street, Brooklyn, Australia"
-    email: contact@mail.com 
-    phone: +88 01672 506 744 
-    facebook: themefisher
-    twitter: themefisher
-    linkedin: themefisher
+    address: "Cooksville, Mississauga, On, Canada, L5B 3Z2"
+    email: KaniyamFoundation@gmail.com 
+    phone: +1 4375999702
+    facebook: kaniyamfoundation
+    twitter: KaniyamFoundatn
+    linkedin: 
   - _bookshop_name: "map"
-    latitude: 40.712776
-    longitude: -74.005974
+    latitude: 43.5764476942 
+    longitude: -79.6208808498
     name: "Megakit"
 ---

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Training on Kaniyam Foundation</title>
+    <link>http://localhost:1313/categories/training/</link>
+    <description>Recent content in Training on Kaniyam Foundation</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/training/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One day workshop on Python programming</title>
+      <link>http://localhost:1313/posts/2025/02/03/one-day-workshop-on-python-programming/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025/02/03/one-day-workshop-on-python-programming/</guid>
+      <description>Hello everyone!&#xA;We are excited to invite you to a FREE One-Day Python Workshop designed for beginners and enthusiasts who want to dive into the world of programming!</description>
+    </item>
+    <item>
+      <title>Python Training for Kids at Winter Break</title>
+      <link>http://localhost:1313/posts/2024/12/20/python-training-for-kids-at-winter-break/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024/12/20/python-training-for-kids-at-winter-break/</guid>
+      <description>Hello everyone!&#xA;I’m excited to invite you to a FREE One-Day Python Workshop designed for kids who want to dive into the world of programming, in this winter break of 2024.</description>
+    </item>
+  </channel>
+</rss>
